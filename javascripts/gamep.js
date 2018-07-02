@@ -307,7 +307,7 @@ game.state.add('gameState2',gameState2);
 game.state.add('gameState3',gameState3);        
 game.state.add('gameState4',gameState4);        
 game.state.add('gameState5',gameState5);        
-game.state.start('gameState5'); 
+game.state.start('gameState1'); 
 
 
 
